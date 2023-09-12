@@ -10,7 +10,10 @@
                 <br>
                 I'm JHector, a CyberSecurity student and Software Developer, always choose the best practices for
                 security and
-                efficiency. "I use Arch Linux BTW"
+                efficiency. 
+            </b>
+            <b>
+              "I use Arch Linux BTW"
             </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BB627&width=435&lines=I+code+efficiency%2C+Secure+and+Solid">
